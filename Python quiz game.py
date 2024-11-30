@@ -123,4 +123,4 @@ print("\nYour current score is:",pt)
 
 #End score
 print("Congratulations on completing the quiz!\nYour total score is:",pt)
-#print("\nYour percentage is:(pt/no of qs)")
+
